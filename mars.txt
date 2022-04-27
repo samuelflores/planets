@@ -1,0 +1,5 @@
+ I like mars.:wq!
+this was created in detached head mode. should not be able to add or commit, but should be able to branch?
+temporarily created line 3:wq!
+added line 4
+added line 5
